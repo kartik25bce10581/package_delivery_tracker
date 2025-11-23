@@ -44,6 +44,11 @@ View all packages in table-like format
 
 Delete packages
 
+
+
+
+
+
 Auto-logging system for status history
 
 Persistent CSV storage
